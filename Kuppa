@@ -1,0 +1,2 @@
+Select * from emp
+where ename='vamsi' and mgr='irfan';
